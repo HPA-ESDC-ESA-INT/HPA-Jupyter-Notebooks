@@ -2,19 +2,11 @@
 
 This repository contains tutorial notebooks for the Proba-2 science archive.
 
+Run interactively on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
+
 ### Requirements
 
-`esa-p2sa` is a python module allowing users to work with P2SA data from within
-a Jupyter Notebook.  The P2SA python module can be downloaded as a Wheel package from [here](https://p2sa.esac.esa.int/p2sa-py/esa_p2sa-1.1-py3-none-any.whl)
-Once downloaded, you can install the package into your python enviroment with
-
-```bash
-pip install wheel
-pip install  <wheel-P2SA-package.whl>
-```
-
-where `<wheel-P2SA-package.whl>` is the name of the downloaded file (most probably with the name `esa_p2sa-<version>-py3-none-any.whl`).
-From here on, the P2SA TAP server can be accessed through this wrapper as described in the Jupyter Notebooks in this repository.
+Standard requirements, see `requirements.txt` in the root of this repository.
 
 ### Notebooks
 
