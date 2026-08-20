@@ -1,8 +1,13 @@
-## HPA - Jupyter Notebooks
+<p align="center">
+  <img src=".github/assets/banner.jpg" width="100%">
+</p>
 
-This repository contains tutorial notebooks to illustrate the data access for different missions in the Heliophysics Archive.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
 
-You can launch an interactive Jupyter Lab session for all notebooks in this repository using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
+## ESA HelioPhysics Archive - Tutorial Notebooks
+
+This repository contains tutorial notebooks to demonstrate programmatic data access for ESA's [Heliophysics Archive](https://hpa.esa.int) (HPA).
+You can launch an interactive Jupyter Lab session for all notebooks in this repository using the `launch binder` button above.
 
 ### Requirements
 
