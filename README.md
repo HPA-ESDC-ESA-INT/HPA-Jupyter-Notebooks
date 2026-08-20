@@ -12,7 +12,7 @@ You can launch an interactive Jupyter Lab session for all notebooks in this repo
 
 ### Getting Started
 
-The [Getting Started](getting_started/) directory contains information on the software prerequisites to run the tutorial notebooks as well as introductory notebooks on the usage of [PyVO](getting_started/01_data_access_with_pyvo.ipynb) and [sunpy](getting_started/03_data_access_with_sunpy.ipynb) to access HPA data.
+The [Getting Started](getting_started/) directory contains information on the software prerequisites to run the tutorial notebooks as well as introductory notebooks on the usage of [PyVO](getting_started/01_data_access_with_pyvo.ipynb) and [sunpy](getting_started/02_data_access_with_sunpy.ipynb) to access HPA data.
 
 If you are already familiar with these topics, you can move straight on to the mission tutorials.
 
@@ -21,4 +21,4 @@ If you are already familiar with these topics, you can move straight on to the m
 ||
 |:-------------------------:|
 |<a href="proba2/"><img width="50%" src=".github/assets/proba2.png"></a> |
-|[Proba-2](proba2/)| 
+|[Proba-2](proba2/)|
