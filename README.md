@@ -20,5 +20,5 @@ If you are already familiar with these topics, you can move straight on to the m
 
 ||
 |:-------------------------:|
-|<img width="50%" src=".github/assets/proba2.png"> |
+|<a href="proba2/"><img width="50%" src=".github/assets/proba2.png"></a> |
 |[Proba-2](proba2/)| 
