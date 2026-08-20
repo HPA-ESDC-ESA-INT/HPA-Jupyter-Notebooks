@@ -12,7 +12,7 @@ You can launch an interactive Jupyter Lab session for all notebooks in this repo
 
 ### Getting Started
 
-The [Getting Started](getting_started/) directory contains information on the software prerequisites to run the tutorial notebooks as well as introductory notebooks on the usage of [PyVO](getting_started/01_data_access_with_pyvo.ipynb), [astroquery](getting_started/02_data_access_with_astroquery.ipynb), and [sunpy](getting_started/03_data_access_with_sunpy.ipynb).
+The [Getting Started](getting_started/) directory contains information on the software prerequisites to run the tutorial notebooks as well as introductory notebooks on the usage of [PyVO](getting_started/01_data_access_with_pyvo.ipynb) and [sunpy](getting_started/03_data_access_with_sunpy.ipynb) to access HPA data.
 
 If you are already familiar with these topics, you can move straight on to the mission tutorials.
 
