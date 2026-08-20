@@ -6,41 +6,19 @@
 
 ## ESA HelioPhysics Archive - Tutorial Notebooks
 
-This repository contains tutorial notebooks to demonstrate programmatic data access for ESA's [Heliophysics Archive](https://hpa.esa.int) (HPA).
+This repository contains tutorial notebooks demonstrating programmatic access to data from ESA's [Heliophysics Archive](https://hpa.esa.int) (HPA).
+
 You can launch an interactive Jupyter Lab session for all notebooks in this repository using the `launch binder` button above.
 
-### Requirements
+### Getting Started
 
-The following requirements are necessary to run most/all notebooks in this repository.
+The [Getting Started](getting_started/) directory contains information on the software prerequisites to run the tutorial notebooks as well as introductory notebooks on the usage of [PyVO](getting_started/01_data_access_with_pyvo.ipynb), [astroquery](getting_started/02_data_access_with_astroquery.ipynb), and [sunpy](getting_started/03_data_access_with_sunpy.ipynb).
 
-#### Jupyter Notebook
+If you are already familiar with these topics, you can move straight on to the mission tutorials.
 
-The Jupyter Notebook App is a server-client application that allows editing and
-running notebook documents via a web browser. The Notebook App can be executed
-on a local desktop requiring no internet access or can be installed on a remote
-server and accessed through the internet.
+### Mission Tutorials
 
-The Jupyter Notebook App is included in the Anaconda distribution so we recommend to install this product though it is not mandatory.
-Anaconda can be downloaded from [here](https://www.anaconda.com/distribution/).
-
-#### Node.js
-
-`Node.js` can be downloaded from [here](https://nodejs.org/) and installed directly.  If you use `conda`, you can install `Node.js` with:
-
-```bash
-$ conda install -c conda-forge nodejs
-```
-
-If you use Homebrew on Mac OS X:
-
-```bash
-$ brew install node
-```
-
-#### python dependencies
-
-See the `requirements.txt` file in this repository. You can install them all at once using
-
-```python
-python -m pip install -r requirements.txt
-```
+||
+|:-------------------------:|
+|<img width="50%" src=".github/assets/proba2.png"> |
+|[Proba-2](proba2/)| 
