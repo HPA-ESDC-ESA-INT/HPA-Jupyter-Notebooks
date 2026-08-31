@@ -1,4 +1,7 @@
 astroquery
 ipython
+notebook
 numpy
 pandas
+pyvo
+sunpy
