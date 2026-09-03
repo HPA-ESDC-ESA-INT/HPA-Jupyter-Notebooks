@@ -4,4 +4,4 @@ notebook
 numpy
 pandas
 pyvo
-sunpy
+sunpy[all]
