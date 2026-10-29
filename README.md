@@ -30,7 +30,7 @@ If you are already familiar with these topics, you can move straight on to the m
 
 ### Mission Tutorials
 
-||
-|:-------------------------:|
-|<a href="proba2/"><img width="50%" src=".github/assets/proba2.png"></a> |
-|[Proba-2](proba2/)|
+|||
+|:-------------------------:|:-------------------------:|
+|<a href="proba2/"><img width="200px" src=".github/assets/proba2.png"></a> |<a href="proba2/"><img width="200px" src=".github/assets/soho.png"></a> |
+|[Proba-2](proba2/)|[SOHO](soho/)|
