@@ -1,8 +1,14 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
+
 ## Proba-2 Science Archive Tutorials
 
-This repository contains tutorial notebooks for the Proba-2 science archive.
+This repository contains tutorial notebooks for the [Proba-2 Science Archive](https://p2sa.esac.esa.int/p2sa/). 
 
-Run interactively on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
+The TAP URL of the P2SA is
+
+```
+https://p2sa.esac.esa.int/p2sa-sl-tap/tap
+```
 
 ### Requirements
 
@@ -10,14 +16,12 @@ Standard requirements, see `requirements.txt` in the root of this repository.
 
 ### Notebooks
 
-The Jupyter notebook below provides a quick guide to the P2SA python module
-functionality through several examples. At the moment, there are two notebooks
-prepared:
+The following notebooks are available:
 
--  The first one provides quick examples of how to retrieve data from P2SA
--  The second one is more specific and intended to provide examples of how to retrieve the Carrington Movies for a specific date.
+-  [pyP2SA.ipynb](https://github.com/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/blob/main/proba2/pyP2SA.ipynb) - Access observation metadata in the P2SA via TAP
+-  [pyP2SA-carrington.ipynb](https://github.com/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/blob/main/proba2/pyP2SA-carrington.ipynb) - Download and display a Carrington movie from the P2SA
 
-In order to open the notebook locally, you can download them from the repository and run:
+You can run the notebooks online using the "launch binder" button above. In order to open the notebook locally, you can download them from the repository and run:
 
 ```
 $ jupyter-notebook

@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
+
 ## SOHO Science Archive Tutorials
 
 This repository contains tutorial notebooks for the [SOHO Science Archive](https://ssa.esac.esa.int/ssa/#/pages/home).
@@ -7,8 +9,6 @@ The TAP URL of the SSA is
 ```
 https://ssa.esac.esa.int/ssa-sl-tap/tap
 ```
-
-Run interactively on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/HEAD)
 
 ### Requirements
 
@@ -20,7 +20,7 @@ The following notebooks are available:
 
 -  [soho_tap_metadata.ipynb](https://github.com/HPA-ESDC-ESA-INT/HPA-Jupyter-Notebooks/blob/main/soho/soho_tap_metadata.ipynb) - Access observation metadata in the SSA via TAP
 
-In order to open the notebook locally, you can download them from the repository and run:
+You can run the notebooks online using the "launch binder" button above. In order to open the notebook locally, you can download them from the repository and run:
 
 ```
 $ jupyter-notebook
